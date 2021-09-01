@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - claa
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3670529537
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 3514303255
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2760454045
+    locked: 0
+  - name: Character
+    uniqueID: 217232833
+    locked: 0
+  - name: Note
+    uniqueID: 494685373
+    locked: 0
+  - name: NoteD
+    uniqueID: 1539464105
+    locked: 0
